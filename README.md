@@ -1,4 +1,4 @@
-# 📅 clsDate – Comprehensive C++ Date Utility Class
+# 📅 clsDate – C++ Date Utility Class
 
 `clsDate` is a powerful, high-level C++ library designed for sophisticated date management and time calculations. It provides an extensive set of tools for date manipulation, comparison, formatting, and calendar operations, demonstrating advanced **Object-Oriented Programming (OOP)** and manual logic implementation.
 
